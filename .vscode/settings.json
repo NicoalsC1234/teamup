@@ -1,0 +1,4 @@
+{
+    "gradle.nestedProjects": false,
+    "cmake.sourceDirectory": "${workspaceFolder}/linux/flutter"
+}
